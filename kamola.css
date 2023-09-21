@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+.header {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  font-family: "Righteous", cursive;
+  background-image: url(./imgcoffee.png);
+  background-size: cover;
+
+  height: 90vh;
+}
+.left-header,
+.right-header {
+  width: 50%;
+  color: white;
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+}
+.right-header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.left-header p {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.headerbtn {
+  color: white;
+  background: #c99e71;
+  display: inline-flex;
+  padding: 20px 30px;
+  align-items: flex-start;
+  gap: 10px;
+}

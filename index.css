@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #14110e;
+}
+body * {
+  font-family: "Righteous", cursive;
+}
+.padding {
+  padding: 10px 13%;
+}

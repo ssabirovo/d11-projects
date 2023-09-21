@@ -1,0 +1,37 @@
+.jadval {
+  background: #14110e;
+}
+
+.jadval p {
+  color: white;
+}
+.jadval h1 {
+  color: white;
+}
+.jadvalLeft {
+  padding: 60px 30px;
+}
+.jadval-m,
+.jadval-p {
+  text-align: center;
+}
+.card {
+  display: flex;
+  border: 1px solid #32323d;
+  gap: 10px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 13px;
+}
+.jadval-p {
+  color: #c99e71;
+}
+.jadval-content {
+  display: flex;
+  justify-content: center;
+}
+.jadvalLeft {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+}

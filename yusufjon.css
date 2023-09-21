@@ -1,0 +1,23 @@
+.navbar {
+  color: #fff;
+  background-color: #1c1814;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-right {
+  display: flex;
+  gap: 40px;
+  cursor: pointer;
+}
+.navbar-left {
+  display: flex;
+  gap: 40px;
+  cursor: pointer;
+}
+.navbar p:hover {
+  color: #c99e71;
+}
+.fa-solid:hover * {
+  color: #c99e71;
+}

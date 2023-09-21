@@ -1,0 +1,22 @@
+.mashin-content {
+  background-color: #221f1f;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 200px;
+}
+
+.machine-right h1 {
+  color: #fff;
+}
+.machine-right p {
+  color: grey;
+}
+.machine-right button {
+  border: 0;
+  padding: 15px 20px;
+  background: #c99e71;
+}
+.machine-left img {
+  margin: 10px 50px;
+}
