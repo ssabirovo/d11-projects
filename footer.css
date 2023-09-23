@@ -1,0 +1,29 @@
+.k-footer {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  background-color: #14110e;
+  color: #ffffff;
+}
+.k-plar {
+  gap: 30px;
+  display: flex;
+}
+.k-input {
+  border-radius: 36px;
+  background: #1c1814;
+  padding: 10px;
+  color: #ffffffcc;
+}
+.k-input input {
+  background: transparent;
+  border: none;
+  font-size: 10px 16px;
+  color: white;
+}
+.k-input button {
+  background-color: #c99e71;
+  border-radius: 50%;
+  padding: 10px;
+  border: none;
+}
