@@ -1,0 +1,74 @@
+body {
+  background: #fafafd;
+}
+.usmon {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 200px;
+}
+.usmon-h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.usmon-blue {
+  color: blue;
+}
+.usmon-img {
+  background: #fff;
+}
+.usmon-img img {
+  width: 100%;
+}
+
+.usmon-2chip {
+  margin-top: 40px;
+  color: #161618;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 590;
+  line-height: 44px;
+}
+.usmon-2h1 {
+  color: #161618;
+
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 590;
+  line-height: 44px; /* 78.571% */
+}
+.usmon-border {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 4px solid #000;
+  color: #161618;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 590;
+  line-height: 44px; /* 78.571% */
+}
+.usmon-p3 {
+  color: #000;
+  font-family: SF Pro;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 44px; /* 157.143% */
+  letter-spacing: 0.56px;
+}
+.usmon-kok {
+  margin-right: 30px;
+  color: #06c;
+  font-family: SF Pro;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 510;
+  line-height: 44px;
+  letter-spacing: 1.05px;
+}
+.usmon-span {
+  margin-left: 100px;
+}

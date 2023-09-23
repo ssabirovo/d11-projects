@@ -1,0 +1,35 @@
+.shaxzod {
+  background-color: #0001;
+}
+.footer p {
+  color: #6e6e73;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 200% */
+  letter-spacing: 0.12px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #0002;
+}
+.footer-list {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  color: #424245;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26.5px; /* 220.833% */
+  letter-spacing: 0.12px;
+}
+.footer-list ul {
+  padding: 0;
+}
+.footer-list ul li {
+  list-style: none;
+  width: max-content;
+}
+.footer {
+  /* padding: 50px 0; */
+  border-bottom: 1px solid #0002;
+}

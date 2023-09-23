@@ -1,0 +1,13 @@
+.solix {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: black;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  gap: 70px;
+}
+.solix-air {
+  width: 80px;
+}
